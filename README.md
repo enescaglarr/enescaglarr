@@ -1,7 +1,7 @@
 # my-project
-<h1> naber </h1>
+<h1> Github Workshop </h1>
   
-<p> Buraya <a href="https://www.google.com"> Tıkla! </a></p>
+<p> <a href="https://www.google.com"> Held by </a></p>
     
 
   
