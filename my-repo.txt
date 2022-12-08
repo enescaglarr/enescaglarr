@@ -4,12 +4,12 @@
   </a>
 </h1>
 
-### Hi there, I am Senih Berkay <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+### Hi there, I am Enes Çağlar <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-- 🔭 I’m currently working on Monster Notebook
-- 🌱 I’m currently learning Machine Learning
-- 💬 Ask me about anything related data analysis and data visualization
-- 📫 How to reach me: senihberkay@gmail.com
+- 🔭 I’m currently not working 
+- 🌱 I’m currently learning Freshman Courses
+- 💬 Ask me about anything!
+- 📫 How to reach me: enes.caglar@sabanciuniv.edu
 - 🌍 I'm based in Turkey, looking for new opportunities around the world
 
 <br></br>
@@ -17,7 +17,7 @@
 <h2 align="center">
 Who am I 👀 
 </h2>
-Senior Computer Science and Engineering student at Sabanci University. Loves data science especially using Python. Working as a Database and Business Intelligence Developer at Monster Notebook.  
+Senior Computer Science and Engineering student at Sabanci University. Loves data science especially using Python. 
 </p>
 <center>
 <br>
