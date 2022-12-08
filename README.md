@@ -1,4 +1,4 @@
-# GitHub Workshop
+<h1 align="center"> GitHub Workshop </h1>
   
 <p align="center"> <a href="https://www.google.com"> Held by </a></p>
 
