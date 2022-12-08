@@ -1,7 +1,6 @@
 # GitHub Workshop
-<h1> Github Workshop </h1>
   
-<p> <a href="https://www.google.com"> Held by </a></p>
+<p align="center"> <a href="https://www.google.com"> Held by </a></p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
