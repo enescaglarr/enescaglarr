@@ -3,13 +3,13 @@
 <h3 align="center">A passionate software developer</h3>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966")>
-<br/> <br/>
+
 - 🔭 I’m currently learning CS 50 Course of Harvard.
  
 - 💬 Ask me about **anything related with CS50.**
 
 - 📫 How to reach me **enes.caglar@sabanciuniv.edu**
- <br/> <br/>
+ <br/> <br/><br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/enes-çağlar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/enes-çağlar" height="30" width="40" /></a>
