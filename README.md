@@ -8,7 +8,7 @@
  
 - 💬 Currently working on **Machine Learning** and **Deep Learning** Projects.
 
-- ✔️ Click to see **<a href="https://github.com/enescaglarr/ML-DL-Projects">My Projects 
+- ✔️ Click to see **<a href="https://github.com/enescaglarr/ML-DL-Projects">My Projects **
 
 - 📫 How to reach me **enes.caglar@sabanciuniv.edu**
  <br/> <br/><br/><br/>
