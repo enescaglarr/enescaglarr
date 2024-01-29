@@ -4,7 +4,7 @@
 <br/>
 
 
-- 🔭 I’m a Sophomore **Computer Science** student at **Sabanci University**.
+- 🔭 I’m a Junior **Computer Science** student at **Sabanci University**.
  
 - 💬 Currently working on **Machine Learning** and **Deep Learning** Projects.
 
