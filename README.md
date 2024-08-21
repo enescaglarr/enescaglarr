@@ -6,8 +6,8 @@
 
 - 🔭 I’m a Junior **Computer Science** student at **Sabanci University**.
  
-- 💬 Currently working on **Machine Learning** and **Deep Learning** Projects.
-
+- 💬 Currently working on NeetCode questions and solutions. I am creating a series of 150 NeetCode solutions with code explanations and Turkish video tutorials on YouTube.
+  
 - ✔️ Click to see **<a href="https://github.com/enescaglarr/ML-DL-Projects">My Projects**
 
 - 📫 How to reach me **enes.caglar@sabanciuniv.edu**
