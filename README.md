@@ -8,7 +8,7 @@
  
 - 💬 Currently working on NeetCode questions and solutions. I am creating a series of 150 NeetCode solutions with code explanations and Turkish video tutorials on YouTube.
   
-- ✔️ Click to see **<a href="https://github.com/enescaglarr/ML-DL-Projects">My Projects**
+- ✔️ Click to see **<a href="https://github.com/enescaglarr/NeetCode">My Projects**
 
 - 📫 How to reach me **enes.caglar@sabanciuniv.edu**
  <br/> <br/><br/><br/>
