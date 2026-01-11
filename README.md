@@ -12,7 +12,7 @@
   - [**SQL Projects**](https://github.com/enescaglarr/SQL-Projects)
   - [**R Projects**](https://github.com/enescaglarr/R-Projects)
   - [**Python Projects**](https://github.com/enescaglarr/ML-DL-Projects)
-  - [**MS Power BI Projects**](https://github.com/enescaglarr/MS-PowerBI-Projects)
+
  
 
 <br/><br/>
