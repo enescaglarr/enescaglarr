@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Enes Caglar</h1>
+<h1 align="center">Hi, I'm Enes Caglar</h1>
 
-<h3 align="center">Aspiring Data Analyst and Data Scientist</h3>
 <br/>
 
-- 🎓 I’m a Senior **Computer Science** student at **Sabanci University**.  
+- I graduated from **Sabanci University** with a degree in **Computer Science**.
  
-- 💡 Passionate about **data analysis**, **machine learning**, **data visualization**, and **business intelligence**.  
+- I am passionate about **AI**, **data analysis**, **machine learning**, **data visualization**, and **business intelligence**.  
 
 - 🧑‍💻 My project repositories:
+  - [**AI Projects**](https://github.com/enescaglarr/AI-Projects)
   - [**Excel Projects**](https://github.com/enescaglarr/Excel-Projects)
   - [**SQL Projects**](https://github.com/enescaglarr/SQL-Projects)
   - [**R Projects**](https://github.com/enescaglarr/R-Projects)
   - [**Python Projects**](https://github.com/enescaglarr/ML-DL-Projects)
   - [**MS Power BI Projects**](https://github.com/enescaglarr/MS-PowerBI-Projects)
-  
  
-- 📫 How to reach me: **enes.caglar@sabanciuniv.edu**
 
 <br/><br/>
 
