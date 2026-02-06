@@ -10,7 +10,6 @@
   - [**AI Projects**](https://github.com/enescaglarr/AI-Projects)
   - [**Excel Projects**](https://github.com/enescaglarr/Excel-Projects)
   - [**SQL Projects**](https://github.com/enescaglarr/SQL-Projects)
-  - [**R Projects**](https://github.com/enescaglarr/R-Projects)
   - [**Python Projects**](https://github.com/enescaglarr/ML-DL-Projects)
 
  
