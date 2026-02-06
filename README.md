@@ -7,10 +7,10 @@
 - I am passionate about **AI**, **data analysis**, **machine learning**, **data visualization**, and **business intelligence**.  
 
 - 🧑‍💻 My project repositories:
-  - [**AI Projects**](https://github.com/enescaglarr/AI-Projects)
+  - [**AI & NLP Projects**](https://github.com/enescaglarr/AI-Projects)
   - [**Excel Projects**](https://github.com/enescaglarr/Excel-Projects)
   - [**SQL Projects**](https://github.com/enescaglarr/SQL-Projects)
-  - [**Python Projects**](https://github.com/enescaglarr/ML-DL-Projects)
+  - [**ML Projects**](https://github.com/enescaglarr/ML-DL-Projects)
 
  
 
