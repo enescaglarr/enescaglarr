@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Enes Caglar</h1>
+<h1 align="center">Hi, I'm Enes Caglar!</h1>
 <p align="center"><b>Data & AI/ML Engineer</b> · B.Sc. Computer Science & Engineering, Sabanci University</p>
 <p align="center">
   <a href="https://enescaglar.com">enescaglar.com</a> ·
