@@ -1,45 +1,42 @@
 <h1 align="center">Hi, I'm Enes Caglar</h1>
-
-<br/>
-
-- I graduated from **Sabanci University** with a degree in **Computer Science**.
- 
-- I am passionate about **AI**, **data analysis**, **machine learning**, **data visualization**, and **business intelligence**.  
-
-- 🧑‍💻 My project repositories:
-  - [**AI & NLP Projects**](https://github.com/enescaglarr/AI-Projects)
-  - [**Excel Projects**](https://github.com/enescaglarr/Excel-Projects)
-  - [**SQL Projects**](https://github.com/enescaglarr/SQL-Projects)
-  - [**ML Projects**](https://github.com/enescaglarr/ML-DL-Projects)
-
- 
-
-<br/><br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="http://linkedin.com/in/enescaglarr/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<p align="center"><b>Data & AI/ML Engineer</b> · B.Sc. Computer Science & Engineering, Sabanci University</p>
+<p align="center">
+  <a href="https://enescaglar.com">enescaglar.com</a> ·
+  <a href="https://linkedin.com/in/enescaglarr">LinkedIn</a> ·
+  <a href="mailto:mail.enes.caglar@gmail.com">mail.enes.caglar@gmail.com</a>
 </p>
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+I like understanding systems end-to-end: from the data pipeline that feeds a model to the kernel that runs it on the edge.
 
+### Featured
+
+- [**mobilenet-edge-deployment**](https://github.com/enescaglarr/mobilenet-edge-deployment): TensorRT FP16 and hand-written FP16 CUDA kernels for MobileNetV2, profiled on TRUBA V100 and Colab A100/L4/T4
+- [**machine-generated-code-detector**](https://github.com/enescaglarr/machine-generated-code-detector): SemEval-2026 Task 13, ModernBERT track; 0.997 validation F1 that collapsed on the hidden test set, and an honest analysis of why
+- [**turkish-hmm-pos-tagger**](https://github.com/enescaglarr/turkish-hmm-pos-tagger): from-scratch HMM + Viterbi on a Turkish treebank, 83.7% to 92.8% through measured improvements
+- [**multi-agent-personal-assistant**](https://github.com/enescaglarr/multi-agent-personal-assistant): AutoGen SelectorGroupChat routing Gmail, Calendar, weather and search to specialized agents
+
+### More
+
+- [**movie-knowledge-graph-rag**](https://github.com/enescaglarr/movie-knowledge-graph-rag): knowledge-graph RAG on Neo4j + Gemini with Cypher fixes driven by failure testing
+- [**ethics-risk-agent**](https://github.com/enescaglarr/ethics-risk-agent): explainable risk prioritizer, rule engine + policy RAG + Streamlit
+- [**turkish-sentiment-finetuning**](https://github.com/enescaglarr/turkish-sentiment-finetuning): BERTurk vs Turkish GPT-2 vs mBART-50, 9 experiments
+- [**document-type-classifier**](https://github.com/enescaglarr/document-type-classifier): 5-class ID document classifier, from-scratch CNN to fine-tuned MobileNetV2 at 97.5%
+- [**resume-jd-scorer**](https://github.com/enescaglarr/resume-jd-scorer): Gemini embeddings + Groq for resume-to-JD matching, Streamlit + PDF report
+- [**nba-data-hub**](https://github.com/enescaglarr/nba-data-hub) · [**flight-booking-platform**](https://github.com/enescaglarr/flight-booking-platform): full-stack team projects, MySQL stored procedures and React/Node
+
+Write-ups, architecture diagrams and interactive demos for every project: [enescaglar.com](https://enescaglar.com)
+
+### Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
 </p>
