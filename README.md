@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Enes Caglar!</h1>
-<p align="center"><b>Data & AI/ML Engineer</b> · B.Sc. Computer Science & Engineering, Sabanci University</p>
+<p align="center"><b>Data & AI/ML Engineer</b> · M.Sc. Information Engineering, TUM (Starting Oct 2026) · B.Sc. Computer Science & Engineering, Sabanci University</p>
 <p align="center">
   <a href="https://enescaglar.com">enescaglar.com</a> ·
   <a href="https://linkedin.com/in/enescaglarr">LinkedIn</a> ·
@@ -11,13 +11,16 @@ I like understanding systems end-to-end: from the data pipeline that feeds a mod
 
 ### Featured
 
+- [**wealth-management-text-to-sql**](https://github.com/enescaglarr/wealth-management-text-to-sql): Text-to-SQL over a wealth-management warehouse: RAG grounding vs zero-shot, measured on 30 questions (100% vs 88%), with a read-only SQL guard
+- [**glass-box-rag**](https://github.com/enescaglarr/glass-box-rag): RAG customer support assistant that shows its work: retrieval scores, the exact prompt, and a repeatable eval suite (Gemini + FAISS + Streamlit)
+- [**inbox-triage**](https://github.com/enescaglarr/inbox-triage): AI email triage for Gmail that classifies threads, labels them, drafts replies, and summarises each window (Serverless on AWS Lambda)
 - [**mobilenet-edge-deployment**](https://github.com/enescaglarr/mobilenet-edge-deployment): TensorRT FP16 and hand-written FP16 CUDA kernels for MobileNetV2, profiled on TRUBA V100 and Colab A100/L4/T4
-- [**machine-generated-code-detector**](https://github.com/enescaglarr/machine-generated-code-detector): SemEval-2026 Task 13, ModernBERT track; 0.997 validation F1 that collapsed on the hidden test set, and an honest analysis of why
-- [**turkish-hmm-pos-tagger**](https://github.com/enescaglarr/turkish-hmm-pos-tagger): from-scratch HMM + Viterbi on a Turkish treebank, 83.7% to 92.8% through measured improvements
-- [**multi-agent-personal-assistant**](https://github.com/enescaglarr/multi-agent-personal-assistant): AutoGen SelectorGroupChat routing Gmail, Calendar, weather and search to specialized agents
 
 ### More
 
+- [**machine-generated-code-detector**](https://github.com/enescaglarr/machine-generated-code-detector): SemEval-2026 Task 13, ModernBERT track; 0.997 validation F1 that collapsed on the hidden test set, and an honest analysis of why
+- [**turkish-hmm-pos-tagger**](https://github.com/enescaglarr/turkish-hmm-pos-tagger): from-scratch HMM + Viterbi on a Turkish treebank, 83.7% to 92.8% through measured improvements
+- [**multi-agent-personal-assistant**](https://github.com/enescaglarr/multi-agent-personal-assistant): AutoGen SelectorGroupChat routing Gmail, Calendar, weather and search to specialized agents
 - [**movie-knowledge-graph-rag**](https://github.com/enescaglarr/movie-knowledge-graph-rag): knowledge-graph RAG on Neo4j + Gemini with Cypher fixes driven by failure testing
 - [**ethics-risk-agent**](https://github.com/enescaglarr/ethics-risk-agent): explainable risk prioritizer, rule engine + policy RAG + Streamlit
 - [**turkish-sentiment-finetuning**](https://github.com/enescaglarr/turkish-sentiment-finetuning): BERTurk vs Turkish GPT-2 vs mBART-50, 9 experiments
