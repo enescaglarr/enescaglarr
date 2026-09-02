@@ -11,10 +11,11 @@ I like understanding systems end-to-end: from the data pipeline that feeds a mod
 
 ### Featured
 
+- [**mobilenet-edge-deployment**](https://github.com/enescaglarr/mobilenet-edge-deployment): TensorRT FP16 and hand-written FP16 CUDA kernels for MobileNetV2, profiled on TRUBA V100 and Colab A100/L4/T4
 - [**wealth-management-text-to-sql**](https://github.com/enescaglarr/wealth-management-text-to-sql): Text-to-SQL over a wealth-management warehouse: RAG grounding vs zero-shot, measured on 30 questions (100% vs 88%), with a read-only SQL guard
 - [**glass-box-rag**](https://github.com/enescaglarr/glass-box-rag): RAG customer support assistant that shows its work: retrieval scores, the exact prompt, and a repeatable eval suite (Gemini + FAISS + Streamlit)
 - [**inbox-triage**](https://github.com/enescaglarr/inbox-triage): AI email triage for Gmail that classifies threads, labels them, drafts replies, and summarises each window (Serverless on AWS Lambda)
-- [**mobilenet-edge-deployment**](https://github.com/enescaglarr/mobilenet-edge-deployment): TensorRT FP16 and hand-written FP16 CUDA kernels for MobileNetV2, profiled on TRUBA V100 and Colab A100/L4/T4
+
 
 ### More
 
